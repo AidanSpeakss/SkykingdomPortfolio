@@ -18,4 +18,3 @@ Because this entirely new gamemode, some of the different aspects of this projec
   Due to high number of cheating software available for Minecraft, a good anti-cheat is core to a good Minecraft server. This requires working with raw packet data, and is very   difficult.
   
   And there are so many more aspects to this project.
-  So far this project contains over: 
