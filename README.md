@@ -10,7 +10,6 @@ This repo was created to document the work put into the Skykingdom project. The 
 
 
 **What type of work does this involve?**  
-*Because this entirely new gamemode, some of the different aspects of this project we're: *
 
   - Game design
   
