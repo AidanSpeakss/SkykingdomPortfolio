@@ -1,6 +1,6 @@
 # Skykingdom Project
 
-This repo was created to document the amount of work put into the Skykingdom project. The actual repo needs to remain private, to ensure code isn't stolen. So I've described the work I am doing here in detail.
+This repo was created to document the amount of work put into the Skykingdom project. The actual repo needs to remain private, to ensure code isn't stolen. So I've described the work I am doing in detail here.
 
 ---
 
