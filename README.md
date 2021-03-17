@@ -6,7 +6,7 @@ This repo was created to document the work put into the Skykingdom project. The 
 
 **What is Skykingdom?**
 
-*Skykingdom is a multi-year long game development project, that aims to create a unique new gamemode for Minecraft Bedrock Edition. The project uses PHP, and the Minecraft server hosting api Pocketmine. All of the code in this project, is based off the PMMP (Pocketmine) software, and will not work stand alone.*
+*Skykingdom is a multi-year long game development project, that aims to create a unique new gamemode for Minecraft Bedrock Edition. The project uses PHP, and the Minecraft server hosting api Pocketmine. All of the code in this project, is based off the PMMP (Pocketmine) software/api, and will not work stand alone.*
 
 
 **What type of work does this involve?**  
@@ -17,7 +17,7 @@ This repo was created to document the work put into the Skykingdom project. The 
   
   Server-side Developement
   
-  - *Contrary to popular belief Minecraft servers handle all parts of gameplay server-side, rather than client side. This means that instead of the users downloading mod packs, the server software Pocketmine, handles all of the game logic, and acts as a middle man. Creaating space for moddificition which manifest in the form of Pocketmine plugins. Server-side development includes: writing scalable code, creating modules to process incoming packets, creating code to efficiently store, process, and retrieve player data and game data, utilizing pocketmine event listeners, coding extensive error handling and validation checks, and testing code.*
+  - *Contrary to popular belief Minecraft servers handle all parts of gameplay server-side, rather than client side. This means that instead of the users downloading mod packs, the server software Pocketmine, handles all of the game logic, and acts as a middle man. Creaating space for moddificition which manifests in the form of Pocketmine plugins. Server-side development includes: writing scalable code, creating modules to process incoming packets, creating code to efficiently store, process, and retrieve player data and game data, utilizing pocketmine event listeners, coding extensive error handling and validation checks, and testing code.*
   
   UI And Game Level Design
   
