@@ -13,7 +13,7 @@ This repo was created to document the work put into the Skykingdom project. The 
 
   Game design
   
-  - *Designing the mechanics of the game to ensure the best experience for the play. And also to ensure that players remain interested and continue playing the game, after it is no longer hyped up or trending.*
+  - *Designing the mechanics of the game to ensure the best experience for the player. And also to ensure that players remain interested and continue playing the game, after it is no longer as populer.*
   
   Server-side Developement
   
