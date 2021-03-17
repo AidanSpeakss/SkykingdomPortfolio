@@ -1,8 +1,8 @@
 ```
 **Skykingdom Project**
-
-This repo was created to document the amount of work put into the Skykingdom project. The actual repo needs to remain private, to ensure code isn't stolen. So I've taken screenshot and snippits of different parts of the project to show off the work.
 ```
+This repo was created to document the amount of work put into the Skykingdom project. The actual repo needs to remain private, to ensure code isn't stolen. So I've taken screenshot and snippits of different parts of the project to show off the work.
+
 ---
 
 *What is Skykingdom?*  
