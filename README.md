@@ -6,7 +6,7 @@ This repo was created to document the work put into the Skykingdom project. The 
 
 **What is Skykingdom?**
 
-*Skykingdom is a multi-year long game development project, that aims to create a unique new gamemode for Minecraft Bedrock Edition. The project uses PHP, and the Minecraft server hosting server Pocketmine. All of the code in this project, is based off the PMMP (Pocketmine) software, and will not work stand alone.*
+*Skykingdom is a multi-year long game development project, that aims to create a unique new gamemode for Minecraft Bedrock Edition. The project uses PHP, and the Minecraft server hosting api Pocketmine. All of the code in this project, is based off the PMMP (Pocketmine) software, and will not work stand alone.*
 
 
 **What type of work does this involve?**  
